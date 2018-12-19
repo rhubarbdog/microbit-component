@@ -26,5 +26,5 @@ https://github.com/rhubarbdog/-microbit-mpr121-keypad
 
 <h2>Distance</h2></br>
 
-<h4>HCSR04 - ultrsonic range finder</h4>
+<h4>HC-SR04 - ultrsonic range finder</h4>
 https://github.com/fizban99/microbit_hcsr04
