@@ -2,15 +2,29 @@
 
 <h2>Displays</h2></br>
 
-<h4>LCD1602, generic LCD driver for 16x2 ... 40x4 screens</h4>
+<h4>LCD1602, generic i2c LCD driver for 16x2 ... 40x4 screens</h4>
 https://github.com/rhubarbdog/microbit-LCD-driver
+
+<h4>tm1637, 4 digit 7 segment LED display</h4>
+https://github.com/mcauser/microbit-tm1637
 
 <h2>Temperature, Humdity and Weather</h2></br>
 
-<h4>DHT11 - measure temperature and humidity</h4>
+<h4>DHT11 - digitally measure temperature and humidity</h4>
 https://github.com/rhubarbdog/microbit-dht11
 
-<h2>Keypads, Keyboards and Generic Input devices</h2>
+<h4>DHT12 - digitally measure temperature and humidity over the i2c bus</h4>
+https://github.com/mcauser/microbit-dht12
+
+<h4>AM2320 - digitally measure temperature and humidity over the i2c bus</h4>
+https://github.com/mcauser/microbit-am2320
+
+<h2>Keypads, Keyboards and Generic Input devices</h2></br>
 
 <h4>mpr121 capacative touch keypad</h4>
 https://github.com/rhubarbdog/-microbit-mpr121-keypad
+
+<h2>Distance</h2></br>
+
+<h4>HCSR04 - ultrsonic range finder</h4>
+https://github.com/fizban99/microbit_hcsr04
