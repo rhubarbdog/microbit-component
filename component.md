@@ -10,6 +10,19 @@ https://github.com/mcauser/microbit-tm1637
 
 <h2>Temperature, Humdity and Weather</h2></br>
 
+<h4>TMP35, TMP36 & TMP37 - Measure temperature with an analog device</h4>
+The TMP36 converts between an analog voltage and degrees celcius via the
+following code snippet. TMP35 and TMP37 use similar logic but have different
+parameters.
+
+The TMP36 produces 750 mV at 25°C and has an output scale factor of
+10 mV/°C
+
+```
+millivolts = pin0.read_analog() * 3300 / 1023
+degrees = ((millivolts - 750) / 10) + 25
+```
+
 <h4>DHT11 - digitally measure temperature and humidity</h4>
 https://github.com/rhubarbdog/microbit-dht11
 
