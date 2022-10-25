@@ -38,7 +38,7 @@ https://github.com/mcauser/microbit-am2320
 <h2>Keypads, Keyboards and Generic Input devices</h2></br>
 
 <h4>mpr121 capacative touch keypad</h4>
-https://github.com/rhubarbdog/-microbit-mpr121-keypad
+https://github.com/rhubarbdog/microbit-mpr121-keypad
 
 <h2>Distance</h2></br>
 
