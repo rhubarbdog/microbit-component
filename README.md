@@ -3,7 +3,7 @@
 <h2>Displays</h2></br>
 
 <h4>ht16k33, generic i2c driver for 8x8 LED Matrix</h4>
-https://bitbucket.org/thesheep/microbit-ht16k33/src/tip/ht16k33.py
+https://github.com/mcauser/deshipu-micropython-ht16k33
 
 <h4>LCD1602, generic i2c LCD driver for 16x2 ... 40x4 screens</h4>
 https://github.com/rhubarbdog/microbit-LCD-driver
